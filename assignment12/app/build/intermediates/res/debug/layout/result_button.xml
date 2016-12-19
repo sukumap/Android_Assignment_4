@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/resultButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="?android:attr/borderlessButtonStyle" >
+</Button><!-- From: file:/C:/personal/coursera/android/part4_communication/homework1/POSA-15/assignments/assignment12/app/src/main/res/layout/result_button.xml -->
